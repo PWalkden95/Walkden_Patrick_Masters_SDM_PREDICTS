@@ -1,0 +1,7 @@
+READ_ME
+
+SDMs -- Code for the data acquisition, cleaning, thinning, pseudo-absence generation, SDM modeling, SDM evaluation, SDM projections, species sensitivity calculations.
+
+PREDICTS -- Code for the generalised linear mixed effects modeling selection and projection, and calculation for species specific metric for sensitivity of land-use change - using code developed by Adriana De Palma. -- Python code obtained from Ricardo gonzalez's/PREDICTS github.
+
+Combined -- Code for sysnthesising the outputs of both GLMM and SDMs.
